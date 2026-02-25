@@ -47,8 +47,6 @@ If you’ve got a tricky product problem, a messy platform to unify, or a team t
 📩 **hello@kwedo.com**  
 🌐 https://kwedo.com/contact
 
-
-
 <!--
 **kwedoki/kwedoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
