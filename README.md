@@ -6,15 +6,12 @@ London-based product design leader with 25+ years in digital. I work best where 
 - 🌍 Contact: https://kwedo.com  
 - 💼 LinkedIn: https://linkedin.com/in/kwedo
 
-## 🧠 Design mantra
-**Listen carefully → understand deeply → answer with engaging, thoughtful experiences — with brand personality.**
-
 ---
 
 ## Focus areas
 - Product discovery & definition (problem framing, opportunity mapping)
-- Product-Market Fit
-- UX research (qual + quant), usability testing, service blueprints
+- Value generation, Product-Market fit
+- Product research, usability testing, service blueprints
 - Interaction design, UI systems, information architecture
 - Design ops: principles, process, team enablement, mentoring
 - Design systems: tokens, governance, component libraries
