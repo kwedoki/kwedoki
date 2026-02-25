@@ -3,12 +3,6 @@
 
 London-based product design leader with 25+ years in digital. I work best where **strategy meets craft** — turning fuzzy opportunities into clear product direction, aligning teams, and shipping experiences that feel *inevitable*.
 
-### What I’m known for
-- 🧭 Product vision + UX strategy that moves metrics *and* hearts  
-- Research, rapid validation, prototyping, iteration loops  
-- Design systems (tokens, governance, scalability across platforms)  
-- Working tight with engineering & stakeholders to ship the real thing  
-
 - 🌍 Contact: https://kwedo.com  
 - 💼 LinkedIn: https://linkedin.com/in/kwedo
 
