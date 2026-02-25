@@ -3,14 +3,7 @@
 
 > I help turn opportunities into a product vision, deliver user value by closely working with technology and business, and ship exceptional end-to-end customer experiences.
 
----
-
-## 🔥 Quick links
-- 🌍 Website: https://kwedo.com  
-- 🧠 About: https://kwedo.com/about  
-- 🧳 Work: https://kwedo.com/work
-- 📬 Contact: https://kwedo.com/contact  
-- 📄 CV / Resume: https://kwedo.com/resume  
+- 🌍 Contact: https://kwedo.com  
 - 💼 LinkedIn: https://linkedin.com/in/kwedo
 
 ---
@@ -20,9 +13,9 @@ London-based product design leader with 25+ years in digital. I work best where 
 
 ### What I’m known for
 - 🧭 Product vision + UX strategy that moves metrics *and* hearts  
-- 🧪 Research, rapid validation, prototyping, iteration loops  
-- 🧩 Design systems (tokens, governance, scalability across platforms)  
-- 🤝 Working tight with engineering & stakeholders to ship the real thing  
+- esearch, rapid validation, prototyping, iteration loops  
+- Design systems (tokens, governance, scalability across platforms)  
+- Working tight with engineering & stakeholders to ship the real thing  
 
 ---
 
@@ -31,7 +24,7 @@ London-based product design leader with 25+ years in digital. I work best where 
 
 ---
 
-## 🧰 Focus areas
+## Focus areas
 - Product discovery & definition (problem framing, opportunity mapping)
 - Product-Market Fit
 - UX research (qual + quant), usability testing, service blueprints
@@ -41,11 +34,10 @@ London-based product design leader with 25+ years in digital. I work best where 
 
 ---
 
-## 🤝 Let’s build something good
-If you’ve got a tricky product problem, a messy platform to unify, or a team that needs momentum:
+## Let’s build something great!
 
 📩 **hello@kwedo.com**  
-🌐 https://kwedo.com/contact
+
 
 <!--
 **kwedoki/kwedoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
