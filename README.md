@@ -1,7 +1,7 @@
 # Andy Kwedo — UX Unicorn 🦄✨  
 ### Product Design Leader • UX/UI • Design Systems • Strategy
 
-London-based product design leader with 25+ years in digital. I work best where **strategy meets craft** — turning fuzzy opportunities into clear product direction, aligning teams, and shipping experiences that feel *inevitable*.
+London-based product design leader with 25+ years in digital. I work best where **strategy meets craft** - turning fuzzy opportunities into clear product direction, aligning teams, and shipping experiences that feel *inevitable*.
 
 - 🌍 Contact: https://kwedo.com  
 - 💼 LinkedIn: https://linkedin.com/in/kwedo
