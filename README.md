@@ -2,7 +2,7 @@
 
 ### AI Product • Principal Design Engineer • UX/UI • Design Systems • Strategy
 
-London-based, working across product direction, technical design and hands-on implementation. I specialise in data visualisation, data processing and complex B2B software. I’m into getting things shipped 
+London-based, working across product direction, technical design and hands-on implementation. I specialise in trading products, data visualisation, data processing and complex B2B software. I’m into getting things shipped 
 
 **Currently**
 Building trading analytics tools @ Shell Trading.
