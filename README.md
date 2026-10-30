@@ -4,7 +4,7 @@
 London-based, working across product direction, technical design and hands-on implementation. I specialise in data visualisation, data processing and complex B2B software. I’m into getting things shipped 
 
 **Currently**
-London/UK based. Building trading analytics tools @ Shell Trading.
+Building trading analytics tools @ Shell Trading.
 
 ---
 
