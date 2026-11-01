@@ -1,4 +1,4 @@
-![Andy Kwedo](banner.png)
+![Andy Kwedo - Principal ](banner.png)
 
 ### AI Product • Principal Design Engineer • UX/UI • Design Systems • Strategy
 
