@@ -8,7 +8,9 @@ of design behind the product work.
 
 **Now**
 - Building trading analytics tools @ Shell Trading
-- Fractional CPO. Leading product for an early-stage genetics company, under NDA
+
+**Recent**
+- Fractional CPO. Leading product for an early-stage genetics AI company
 
 **Focus**
 - Product discovery and definition: problem framing, opportunity mapping,
