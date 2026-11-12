@@ -22,8 +22,7 @@ of design behind the product work.
 **Things you can run**
 - [Isomer](https://isomer.kwedo.dev): a Chrome extension for tweaking a live
   page and copying the changes as a brief for a coding agent
-- [Plotum](https://plotum.app): a map explorer for London's transit, education,
-  crime, economy, population and property data (proof of concept) 
+- [Plotum](https://plotum.app): property data modelling and spatial analysis 
 - [Ponds](https://joyrot.com/ponds/) and [Bananaut](https://joyrot.com/bananaut/): 
   games built with my sons under [Joyrot](https://joyrot.com) 
 
