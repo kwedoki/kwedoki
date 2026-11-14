@@ -3,8 +3,8 @@
 ## Product leader who builds
 
 I take data-heavy B2B products from a vague opportunity to a working first
-version, and I build that version with AI agents. London-based with 25+ years 
-of design behind the product work. 
+version. I build with amazing humans and AI agents. London-based with 
+25+ years of design behind the product work. 
 
 **Now** - Building trading analytics tools @ Shell Trading
 
