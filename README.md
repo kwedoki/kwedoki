@@ -6,7 +6,7 @@ I take data-heavy B2B products from a vague opportunity to a working first
 version. I build with amazing humans and AI agents. London-based with 
 25+ years of design behind the product work. 
 
-**Now** - Building trading analytics tools @ Shell Trading
+**Now** - Building trading & fundamental analysis tools @ Shell Trading
 
 **Recent** - Fractional CPO. Leading product for an early-stage genetics AI company
 
